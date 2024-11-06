@@ -8,6 +8,6 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   // Add your domain here
-  site: "https://yoursite.com/",
+  site: 'https://zurras-work-portfolio.github.io',
   integrations: [sitemap()]
 });
